@@ -1,6 +1,6 @@
 from selenium import webdriver
 from time import sleep
-from secrets import username,  pw
+from data.secrets import username,  pw
 
 
 class LoginBot():
