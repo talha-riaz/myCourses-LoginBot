@@ -32,12 +32,12 @@ In order to use the bot, we need to perform a one time setup. This is to install
     Once downloaded, unzip the archive file 
    <br>  
     
-    `$ unzip chromedriver`
+    $ unzip chromedriver
     
    <br>
     Then move the file as shown to complete the installation of chromedriver
     <br>
-    `$ mv chromedriver /usr/local/bin` 
+     `$ mv chromedriver /usr/local/bin`
     
    <br>
     
@@ -51,6 +51,6 @@ In order to use the bot, we need to perform a one time setup. This is to install
   `$ pip install selenium`
   
   <br>
-  
+  </li>
    
 </ol>
