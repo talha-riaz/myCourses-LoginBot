@@ -15,5 +15,11 @@ Before you can start using the bot, make sure all the system requirements are be
         $ python --version
 
         Python 3.7.4
-  </li>    
+  </li>
+  <li> Google Chrome (Version 80) <br>
+    <br>
+       To check, goto Chrome > Settings > About Chrome <br>
+
+       <img src="" height="" width="">
+  </li>
 </ul>        
