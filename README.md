@@ -7,9 +7,12 @@ A bot to automatically login to McGill's myCourses website with just one command
 Before you can start using the bot, make sure all the system requirements are being met.
 
 <h3> System Requirements </h3> <br>
-1. Python3 installed on your system <br>
-To check, open terminal and type <br>
+<ul>
+  <li> Python3 installed on your system <br>
+       To check, open terminal and type <br>
 
-`$ python --version` <br>
+       `$ python --version` <br>
 
-Output: Python 3.7.4
+        Output: Python 3.7.4
+  </li>    
+</ul>        
