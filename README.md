@@ -49,7 +49,7 @@ In order to use the bot, we need to perform a one time setup. This is to install
   Then run the following command on the terminal: <br>
   
   
-    $ pip install selenium
+    `$ pip install selenium`
   
   <br>
   </li>
