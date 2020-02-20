@@ -37,7 +37,8 @@ In order to use the bot, we need to perform a one time setup. This is to install
    <br>
     Then move the file as shown to complete the installation of chromedriver
     <br>
-     `$ mv chromedriver /usr/local/bin`
+    
+     $ mv chromedriver /usr/local/bin
     
    <br>
     
