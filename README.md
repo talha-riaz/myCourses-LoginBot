@@ -9,10 +9,11 @@ Before you can start using the bot, make sure all the system requirements are be
 <h3> System Requirements </h3> <br>
 <ul>
   <li> Python3 installed on your system <br>
+    <br>
        To check, open terminal and type <br>
 
-       `$ python --version
+        $ python --version
 
-        Python 3.7.4`
+        Python 3.7.4
   </li>    
 </ul>        
