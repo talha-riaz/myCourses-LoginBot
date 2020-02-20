@@ -28,8 +28,8 @@ Before you can start using the bot, make sure all the system requirements are be
 In order to use the bot, we need to perform a one time setup. This is to install all the necessary dependencies. 
 <ol>
   <li> Installing Chromedriver <br>
-    Download the version corresponding to your Google Chrome from <a href="https://chromedriver.chromium.org/downloads"> here. </a><br>
-    Once installed, unzip the archive file 
+    Download the version of chromedriver corresponding to your Google Chrome version from <a href="https://chromedriver.chromium.org/downloads"> here. </a><br>
+    Once downloaded, unzip the archive file 
    <br>  
     
     `$ unzip chromedriver`
@@ -44,5 +44,13 @@ In order to use the bot, we need to perform a one time setup. This is to install
     
     
   </li>
+  <li> Installing Selenium <br>
+  Make sure you are in the project repository. <br>
+  Then run the following command on the terminal: <br>
+  
+  `$ pip install selenium`
+  
+  <br>
+  
    
 </ol>
