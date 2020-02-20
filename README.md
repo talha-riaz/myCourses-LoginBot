@@ -28,7 +28,21 @@ Before you can start using the bot, make sure all the system requirements are be
 In order to use the bot, we need to perform a one time setup. This is to install all the necessary dependencies. 
 <ol>
   <li> Installing Chromedriver <br>
-    Download the version corresponding to your Google Chrome from <a href="https://chromedriver.chromium.org/downloads"> here. </a>
+    Download the version corresponding to your Google Chrome from <a href="https://chromedriver.chromium.org/downloads"> here. </a><br>
+    Once installed, unzip the archive file 
+   <br>  
+    
+    `$ unzip chromedriver`
+    
+   <br>
+    Then move the file as shown to complete the installation of chromedriver
+    <br>
+    `$ mv chromedriver /usr/local/bin` 
+    
+   <br>
+    
+    
+    
   </li>
    
 </ol>
