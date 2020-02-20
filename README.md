@@ -11,8 +11,8 @@ Before you can start using the bot, make sure all the system requirements are be
   <li> Python3 installed on your system <br>
        To check, open terminal and type <br>
 
-       `$ python --version` <br>
+       `$ python --version
 
-        Output: Python 3.7.4
+        Python 3.7.4`
   </li>    
 </ul>        
