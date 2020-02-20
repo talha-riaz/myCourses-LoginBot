@@ -16,10 +16,19 @@ Before you can start using the bot, make sure all the system requirements are be
 
         Python 3.7.4
   </li>
-  <li> Google Chrome (Version 80) <br>
+  <li> Google Chrome (verify version for next steps) <br>
     <br>
        To check, goto Chrome > Settings > About Chrome <br>
        <img src="https://github.com/talha-riaz/myCourses-LoginBot/blob/dev/img/img2.png" height="100" width="400">
  
   </li>
 </ul>        
+
+<h3> Installing Dependencies </h3> <br>
+In order to use the bot, we need to perform a one time setup. This is to install all the necessary dependencies. 
+<ol>
+  <li> Installing Chromedriver <br>
+    Download the version corresponding to your Google Chrome from <href src="https://chromedriver.chromium.org/">
+  </li>
+   
+</ol>
