@@ -19,7 +19,7 @@ Before you can start using the bot, make sure all the system requirements are be
   <li> Google Chrome (Version 80) <br>
     <br>
        To check, goto Chrome > Settings > About Chrome <br>
-       <img src="https://github.com/talha-riaz/myCourses-LoginBot/blob/dev/img/img2.png" height="60" width="300">
+       <img src="https://github.com/talha-riaz/myCourses-LoginBot/blob/dev/img/img2.png" height="100" width="350">
  
   </li>
 </ul>        
