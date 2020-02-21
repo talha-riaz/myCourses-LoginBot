@@ -9,9 +9,6 @@ Once you're all set up, you can run the following command to initiate the bot!
 
 `$ python login_bot.py`
 
-<br>
-Note: Before you begin, make sure to read the section below to set up the bot.<br>
-
 <h2> Getting started </h2> 
 Before you can start using the bot, make sure all the system requirements are being met.
 
