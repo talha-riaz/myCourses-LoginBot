@@ -65,7 +65,7 @@ In order to use the bot, we need to perform a one time setup. This is to install
    
 </ol>
 
-<h3> Setting up Login Credentials </h3> <br>
+<h3> Setting up Login Credentials </h3>
 A one time setup is required to save the myCourses login credentials, which the bot will use to log in automatically.<br>
 This will be done as follows:<br>
 <ol>
@@ -74,3 +74,7 @@ This will be done as follows:<br>
   <li>Modify the username and pw fields, following the same format as given</li>
 </ol>
 <img src="https://github.com/talha-riaz/myCourses-LoginBot/blob/dev/img/img3.png">
+<br>
+IMPORTANT: Keep this information in a safe location, only accssible to you, as the credentials can be read off if the file is accessed. This is by no means a secure way to save login credentials. <br>
+Future releases will focus more on security.
+
