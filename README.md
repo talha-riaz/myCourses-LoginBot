@@ -1,7 +1,7 @@
 # myCourses Login Bot
 A bot to automatically login to McGill's myCourses website with just one command.
 
-<img src="https://github.com/talha-riaz/myCourses-LoginBot/blob/dev/img/img1.png" height="250" width="1000">
+<img src="https://github.com/talha-riaz/myCourses-LoginBot/blob/master/img/img1.png" height="250" width="1000">
 
 <h3> Using the bot </h3>
 Before you can start using the bot, make sure you complete all the steps in the section below.
@@ -25,7 +25,7 @@ Before you can start using the bot, make sure all the system requirements are be
   <li> Google Chrome (verify version for next steps) <br>
     <br>
        To check, goto Chrome > Settings > About Chrome <br>
-       <img src="https://github.com/talha-riaz/myCourses-LoginBot/blob/dev/img/img2.png" height="100" width="400">
+       <img src="https://github.com/talha-riaz/myCourses-LoginBot/blob/master/img/img2.png" height="100" width="400">
  
   </li>
 </ul>        
@@ -71,7 +71,7 @@ This will be done as follows:<br>
   <li>Open secrets.py</li>
   <li>Modify the username and pw fields, following the same format as given</li>
 </ol>
-<img src="https://github.com/talha-riaz/myCourses-LoginBot/blob/dev/img/img3.png">
+<img src="https://github.com/talha-riaz/myCourses-LoginBot/blob/master/img/img3.png">
 <br>
 IMPORTANT: Keep this information in a safe location, only accssible to you, as the credentials can be read off if the file is accessed. This is by no means a secure way to save login credentials. <br>
 Future releases will focus more on security.
