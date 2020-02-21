@@ -9,7 +9,7 @@ To Run: <br>
 `$ Python3 login_bot.py`
 
 <br>
-Note: Before you begin, make sure to read the section below to set up the bot. <br>
+Note: Before you begin, make sure to read the section below to set up the bot. The requirements are listed.<br>
 
 <h2> Getting started </h2> 
 Before you can start using the bot, make sure all the system requirements are being met.
