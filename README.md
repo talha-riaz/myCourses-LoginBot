@@ -12,7 +12,7 @@ Once you're all set up, you can run the following command to initiate the bot!
 <h2> Getting started </h2> 
 Before you can start using the bot, make sure all the system requirements are being met.
 
-<h3> System Requirements </h3> <br>
+<h3> System Requirements </h3>
 <ul>
   <li> Python installed on your system <br>
     <br>
