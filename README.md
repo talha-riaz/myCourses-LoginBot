@@ -3,20 +3,18 @@ A bot to automatically login to McGill's myCourses website with just one command
 
 <img src="https://github.com/talha-riaz/myCourses-LoginBot/blob/dev/img/img1.png" height="250" width="1000">
 
-To Run: <br>
+<h3> Using the bot </h3>
+Before you can start using the bot, make sure you complete all the steps in the section below.
+Once you're all set up, you can run the following command to initiate the bot!
 
-
-`$ Python3 login_bot.py`
-
-<br>
-Note: Before you begin, make sure to read the section below to set up the bot.<br>
+`$ python login_bot.py`
 
 <h2> Getting started </h2> 
 Before you can start using the bot, make sure all the system requirements are being met.
 
-<h3> System Requirements </h3> <br>
+<h3> System Requirements </h3>
 <ul>
-  <li> Python3 installed on your system <br>
+  <li> Python installed on your system <br>
     <br>
        To check, open terminal and type <br>
 
@@ -65,7 +63,7 @@ In order to use the bot, we need to perform a one time setup. This is to install
    
 </ol>
 
-<h3> Setting up Login Credentials </h3> <br>
+<h3> Setting up Login Credentials </h3>
 A one time setup is required to save the myCourses login credentials, which the bot will use to log in automatically.<br>
 This will be done as follows:<br>
 <ol>
@@ -73,4 +71,10 @@ This will be done as follows:<br>
   <li>Open secrets.py</li>
   <li>Modify the username and pw fields, following the same format as given</li>
 </ol>
+<img src="https://github.com/talha-riaz/myCourses-LoginBot/blob/dev/img/img3.png">
+<br>
+IMPORTANT: Keep this information in a safe location, only accssible to you, as the credentials can be read off if the file is accessed. This is by no means a secure way to save login credentials. <br>
+Future releases will focus more on security.
 
+<h3> You're all set! </h3>
+After completing the annoying (but necessary) steps, you should be able to run the bot using the simple run command mentioned at the beginning of this README. 
