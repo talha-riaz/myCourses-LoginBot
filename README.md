@@ -73,4 +73,4 @@ This will be done as follows:<br>
   <li>Open secrets.py</li>
   <li>Modify the username and pw fields, following the same format as given</li>
 </ol>
-
+<img src="https://github.com/talha-riaz/myCourses-LoginBot/blob/dev/img/img3.png">
