@@ -9,7 +9,7 @@ To Run: <br>
 `$ Python3 login_bot.py`
 
 <br>
-Note: Before you begin, make sure to read the section below to set up the bot. The requirements are listed.<br>
+Note: Before you begin, make sure to read the section below to set up the bot.<br>
 
 <h2> Getting started </h2> 
 Before you can start using the bot, make sure all the system requirements are being met.
@@ -64,3 +64,13 @@ In order to use the bot, we need to perform a one time setup. This is to install
   </li>
    
 </ol>
+
+<h3> Setting up Login Credentials </h3> <br>
+A one time setup is required to save the myCourses login credentials, which the bot will use to log in automatically.<br>
+This will be done as follows:<br>
+<ol>
+  <li>Navigate to ./data directory. </li>
+  <li>Open secrets.py</li>
+  <li>Modify the username and pw fields, following the same format as given</li>
+</ol>
+
