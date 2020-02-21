@@ -3,10 +3,11 @@ A bot to automatically login to McGill's myCourses website with just one command
 
 <img src="https://github.com/talha-riaz/myCourses-LoginBot/blob/dev/img/img1.png" height="250" width="1000">
 
-To Run: <br>
+<h3> To run </h3> <br>
+Before you can run the bot, make sure you complete all the steps in the section below.
+Once you're all set up, you can run the following command to initiate the bot!
 
-
-`$ Python3 login_bot.py`
+`$ python login_bot.py`
 
 <br>
 Note: Before you begin, make sure to read the section below to set up the bot.<br>
@@ -16,7 +17,7 @@ Before you can start using the bot, make sure all the system requirements are be
 
 <h3> System Requirements </h3> <br>
 <ul>
-  <li> Python3 installed on your system <br>
+  <li> Python installed on your system <br>
     <br>
        To check, open terminal and type <br>
 
