@@ -78,3 +78,5 @@ This will be done as follows:<br>
 IMPORTANT: Keep this information in a safe location, only accssible to you, as the credentials can be read off if the file is accessed. This is by no means a secure way to save login credentials. <br>
 Future releases will focus more on security.
 
+<h3> You're all set! </h3>
+After completing the annoying (but necessary) steps, you should be able to run the bot using the simple run command mentioned at the beginning of this README. 
